@@ -1,0 +1,18 @@
+body {
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  outline: none;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px 0px lightgray;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: rgb(225, 225, 225);
+}
